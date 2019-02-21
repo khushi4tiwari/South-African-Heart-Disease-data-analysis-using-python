@@ -1,1 +1,4 @@
 This project is about the data analysis of heart disease in South African region. 
+Part1 : Data Feature extraction, and visualization using PCA 
+Part 2: Supervised learning: Naive Bayes Classification and logistic regression 
+Part 3: K means clustering and anomaly detection
